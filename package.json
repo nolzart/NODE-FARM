@@ -9,7 +9,7 @@
   "author": "Omar Colmenares",
   "license": "ISC",
   "devDependencies": {
-    "nodemon": "^2.0.2"
+    "nodemon": "^2.0.6"
   },
   "dependencies": {}
 }
